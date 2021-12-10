@@ -1,0 +1,7 @@
+.icons img {
+    width: 200px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
